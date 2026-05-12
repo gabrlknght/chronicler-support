@@ -1,0 +1,39 @@
+---
+name: 🐛 Bug Report
+about: Something isn't working as expected
+labels: bug, needs-triage
+---
+
+**Chronicler version:**
+<!-- Found in Appearance → Themes in your WP dashboard, e.g. 1.2.0 -->
+
+**WordPress version:**
+<!-- Found in Dashboard → Updates, e.g. 6.5.2 -->
+
+**PHP version:**
+<!-- Found in Tools → Site Health, e.g. 8.2 -->
+
+**PayPal Transaction ID:** *(verified buyers only — paste here for priority support)*
+<!-- Format: 17S00000000000000 — found in your PayPal confirmation email -->
+
+---
+
+**What I expected to happen:**
+
+
+**What actually happened:**
+
+
+**Steps to reproduce:**
+1. 
+2. 
+3. 
+
+**Screenshots or screen recording:**
+<!-- Drag and drop images here, or paste a Loom/YouTube link -->
+
+**Browser console errors:**
+<!-- Open DevTools (F12) → Console tab, paste any red errors here -->
+
+**Additional context:**
+<!-- Anything else that might be relevant — active plugins, custom CSS, etc. -->
