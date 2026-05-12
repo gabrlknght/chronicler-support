@@ -83,7 +83,7 @@ Theme updates are announced in the [📢 Announcements](../../discussions/catego
 
 Need hands-on help setting up or customizing Chronicler for your campaign? Real-time consulting sessions are available for hire.
 
-**[Book a session →](https://cal.com)** *(update with your Cal.com link)*
+**[Book a session →](https://cal.com/sevendaysin)**
 
 ---
 
