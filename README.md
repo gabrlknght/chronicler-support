@@ -14,7 +14,7 @@
 | Ask how to do something | [❓ How Do I...](../../discussions/categories/how-do-i) |
 | Request a feature | [💡 Feature Requests](../../discussions/categories/feature-requests) |
 | Show off my Chronicler site | [🎲 Show & Tell](../../discussions/categories/show-and-tell) |
-| Book real-time consulting | [📅 Book a Session](https://cal.com) *(link your Cal.com URL here)* |
+| Book real-time consulting | [📅 Book a Session](https://cal.com/sevendaysin) |
 
 ---
 
